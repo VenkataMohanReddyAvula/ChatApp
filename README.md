@@ -1,5 +1,5 @@
 
-### 🎯 **Objective (Detailed - 50 Lines)**
+### 🎯 **Objective**
 
 The primary objective of this project is to design and develop a fully functional **web-based Chatbox application** that facilitates seamless text communication between users through a simple, intuitive, and responsive interface. The application aims to replicate the core messaging functionality found in modern chat platforms using fundamental web technologies.
 
